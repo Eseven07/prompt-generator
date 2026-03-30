@@ -13,3 +13,5 @@
 
 **Made with ❤️ by 你 - 2026**# prompt-generator
 AI 提示词一键生成器 - 让 ChatGPT 输出更好结果  
+<p class="mt-8 text-xs">第3次提交：改进用户界面</p>
+
