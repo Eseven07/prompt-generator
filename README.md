@@ -11,7 +11,7 @@
 ## 🚀 使用方法
 直接打开 `index.html` 在浏览器中使用，无需安装！
 
-**Made with ❤️ by 你 - 2026**# prompt-generator
+**Made with ❤️ by Eseven - 2026**# prompt-generator
 AI 提示词一键生成器 - 让 ChatGPT 输出更好结果  
 <p class="mt-8 text-xs">第3次提交：改进用户界面</p>
 
